@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .BET one-word domains still available to buy.
 
-This dataset contains 4,103 .BET one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,098 .BET one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.BET one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=bet-oneword-domains&utm_content=description.top) (4,104) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -24,7 +24,7 @@ If you want to search & filters the complete database of [.BET one word domains]
 | aaron.bet      | available | 88       | 32%    | 5      |           |         |         |
 | abactinal.bet  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.bet      | available | 43       | 2%     | 5      |           |         |         |
-| abandoned.bet  | available | 58       | 10%    | 9      |           |         |         |
+| abandoned.bet  | available | 58       | 7%     | 9      |           |         |         |
 | abashed.bet    | available | 60       | 2%     | 7      |           |         |         |
 | abasic.bet     | available | 54       | 2%     | 6      |           |         |         |
 | abatable.bet   | available | 54       | 1%     | 8      |           |         |         |
@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.BET one word domains]
 | abaxial.bet    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.bet   | available | 50       | 1%     | 8      |           |         |         |
 | abdicable.bet  | available | 50       | 1%     | 9      |           |         |         |
-| abdominal.bet  | available | 82       | 1%     | 9      |           |         |         |
+| abdominal.bet  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.bet | available | 56       | 1%     | 10     |           |         |         |
 | abducens.bet   | available | 54       | 1%     | 8      |           |         |         |
 | abducent.bet   | available | 68       | 1%     | 8      |           |         |         |
@@ -41,7 +41,7 @@ If you want to search & filters the complete database of [.BET one word domains]
 | aberdonian.bet | available | 68       | 1%     | 10     |           |         |         |
 | aberrant.bet   | available | 74       | 7%     | 8      |           |         |         |
 | abeyant.bet    | available | 56       | 2%     | 7      |           |         |         |
-| abhorrent.bet  | available | 54       | 1%     | 9      |           |         |         |
+| abhorrent.bet  | available | 54       | 3%     | 9      |           |         |         |
 | abiding.bet    | available | 106      | 5%     | 7      |           |         |         |
 | abient.bet     | available | 54       | 1%     | 6      |           |         |         |
 | ability.bet    | available | 92       | 18%    | 7      |           |         |         |
@@ -90,7 +90,6 @@ If you want to search & filters the complete database of [.BET one word domains]
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,050       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,568       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,508,809    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
