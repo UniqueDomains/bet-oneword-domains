@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .bet one-word domains from Unique 
 
 **Public extract:** 8,152 rows · **Live catalog:** 8,151 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-14  
 **Canonical page:** `https://unique.domains/domains/tld/bet`  
 **Best for:** founders, investors, studios
 
@@ -65,7 +65,7 @@ print(df.head())
 | domain         | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar         |
 | -------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ----------------- |
 | resume.bet     | available | $14.99     | $33.99        | 98             | 35     | 6      | name.com          |
-| fucking.bet    | resell    | $2,297.70  | $33.99        | 58             | 41     | 7      | Sav.com, LLC - 38 |
+| fucking.bet    | resell    | $2,297.70  | $33.99        | 58             | 42     | 7      | Sav.com, LLC - 38 |
 | enterprise.bet | premium   | $325       | $325          | 68             | 61     | 10     | namecheap         |
 | adaptive.bet   | available | $14.99     | $33.99        | 76             | 32     | 8      | name.com          |
 | covered.bet    | resell    | $14.99     | $33.99        | 74             | 15     | 7      | GoDaddy.com, LLC  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BET One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BET One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
