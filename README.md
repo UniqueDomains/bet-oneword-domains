@@ -1,10 +1,10 @@
-# Available .BET One-Word Domains (10,696)
+# Available .BET One-Word Domains (10,889)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C696%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C889%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .bet one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **10,696 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **10,889 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,696 domains
+**Public extract:** 1,000 rows · **Live catalog:** 10,889 domains
 
-**Last updated:** 2026-04-27  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/bet`  
 **Best for:** founders, investors, studios
 
@@ -71,19 +71,19 @@ print(df.head())
 | Tools.bet        | resell    | —         | —             | 56             | 40     | 5      | Dynadot5 LLC      |
 | results.bet      | premium   | $2,500    | —             | 59             | 22     | 7      | name.com          |
 | chem.bet         | available | $14.99    | —             | 74             | 24     | 4      | name.com          |
-| Cats.bet         | resell    | —         | —             | 59             | 33     | 4      | Porkbun LLC       |
+| payments.bet     | resell    | —         | —             | 58             | 33     | 8      | Spaceship, Inc.   |
 | computers.bet    | premium   | $625      | —             | 68             | 19     | 9      | name.com          |
 | deeplearning.bet | available | $14.99    | —             | 74             | 23     | 13     | name.com          |
-| payments.bet     | resell    | —         | —             | 58             | 33     | 8      | Spaceship, Inc.   |
-| highend.bet      | premium   | $312.50   | —             | 72             | 17     | 8      | name.com          |
-| webshop.bet      | available | $14.99    | —             | 76             | 22     | 8      | name.com          |
 | trends.bet       | resell    | —         | —             | 60             | 32     | 6      | Sav.com, LLC - 11 |
-| mortgages.bet    | premium   | $312.50   | —             | 50             | 16     | 9      | name.com          |
+| highend.bet      | premium   | $312.50   | —             | 72             | 17     | 8      | name.com          |
 | teachers.bet     | available | $14.99    | —             | 56             | 22     | 8      | name.com          |
-| solutions.bet    | resell    | —         | —             | 56             | 31     | 9      | Sav.com, LLC - 27 |
-| accountants.bet  | premium   | $312.50   | —             | 50             | 16     | 11     | name.com          |
-| Allie.bet        | available | $35.98    | —             | 72             | 21     | 5      | namecheap         |
 | spaces.bet       | resell    | —         | —             | 54             | 30     | 6      | Sav.com, LLC      |
+| mortgages.bet    | premium   | $312.50   | —             | 50             | 16     | 9      | name.com          |
+| Allie.bet        | available | $35.98    | —             | 72             | 21     | 5      | namecheap         |
+| staff.bet        | resell    | —         | —             | 72             | 27     | 5      | Dynadot Inc       |
+| accountants.bet  | premium   | $312.50   | —             | 50             | 16     | 11     | name.com          |
+| faces.bet        | available | $14.99    | —             | 60             | 21     | 5      | name.com          |
+| sites.bet        | resell    | —         | —             | 53             | 26     | 5      | GoDaddy.com, LLC  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 10,696 live domains                              |
+| 1,000-row public sample | 10,889 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BET One-Word Domains*. Version 2026-04-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BET One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
