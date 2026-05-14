@@ -65,7 +65,7 @@ print(df.head())
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
 | pages.bet        | available | $14.99    | —             | 52             | 28     | 5      | name.com          |
-| realestate.bet   | resell    | —         | —             | 77             | 42     | 11     | Sav.com, LLC - 13 |
+| realestate.bet   | resell    | —         | —             | 77             | 44     | 11     | Sav.com, LLC - 13 |
 | investors.bet    | premium   | $625      | —             | 60             | 23     | 9      | name.com          |
 | backyard.bet     | available | $14.99    | —             | 80             | 27     | 9      | name.com          |
 | Tools.bet        | resell    | —         | —             | 56             | 40     | 5      | Dynadot5 LLC      |
