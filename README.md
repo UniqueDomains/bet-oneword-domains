@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .bet one-word domains from 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **10,913 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,913 domains · **Median ask:** $241.76 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 10,913 domains · **Median ask:** $246.54 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
+**Last updated:** 2026-06-04  
 **Canonical page:** `https://unique.domains/domains/tld/bet`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| pages.bet        | available | $14.99    | —             | 52             | 28     | 5      | name.com          |
-| realestate.bet   | resell    | —         | —             | 77             | 44     | 11     | Sav.com, LLC - 13 |
-| investors.bet    | premium   | $625      | —             | 60             | 23     | 9      | name.com          |
-| backyard.bet     | available | $14.99    | —             | 80             | 27     | 9      | name.com          |
-| Tools.bet        | resell    | —         | —             | 56             | 40     | 5      | Dynadot5 LLC      |
-| results.bet      | premium   | $2,500    | —             | 59             | 22     | 7      | name.com          |
-| chem.bet         | available | $14.99    | —             | 74             | 24     | 4      | name.com          |
-| payments.bet     | resell    | —         | —             | 58             | 33     | 8      | Spaceship, Inc.   |
-| highend.bet      | premium   | $312.50   | —             | 72             | 19     | 8      | name.com          |
-| deeplearning.bet | available | $14.99    | —             | 74             | 23     | 13     | name.com          |
-| trends.bet       | resell    | —         | —             | 60             | 32     | 6      | Sav.com, LLC - 11 |
-| computers.bet    | premium   | $625      | —             | 68             | 19     | 9      | name.com          |
-| Allie.bet        | available | $35.98    | —             | 72             | 21     | 5      | namecheap         |
-| staff.bet        | resell    | —         | —             | 72             | 27     | 5      | Dynadot Inc       |
-| mortgages.bet    | premium   | $312.50   | —             | 50             | 16     | 9      | name.com          |
-| faces.bet        | available | $14.99    | —             | 60             | 21     | 5      | name.com          |
-| sites.bet        | resell    | —         | —             | 53             | 26     | 5      | GoDaddy.com, LLC  |
-| accountants.bet  | premium   | $312.50   | —             | 50             | 16     | 11     | name.com          |
-| restaurants.bet  | available | $14.99    | —             | 57             | 21     | 11     | name.com          |
-| flying.bet       | resell    | —         | —             | 82             | 25     | 6      | Porkbun LLC       |
+| domain        | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar         |
+| ------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| reunion.bet   | available | $14.99     | —             | 70             | 40     | 7      | name.com          |
+| topic.bet     | resell    | $14.99     | —             | 90             | 20     | 5      | GoDaddy.com, LLC  |
+| smith.bet     | premium   | $625       | —             | 66             | 40     | 5      | name.com          |
+| process.bet   | available | $14.99     | —             | 94             | 35     | 7      | name.com          |
+| paddle.bet    | resell    | —          | —             | 86             | 79     | 6      | GoDaddy.com, LLC  |
+| payment.bet   | premium   | $1,250     | —             | 78             | 36     | 7      | name.com          |
+| massage.bet   | available | $14.99     | —             | 94             | 32     | 7      | name.com          |
+| aladdin.bet   | resell    | —          | —             | 76             | 67     | 7      | GoDaddy.com, LLC  |
+| outdoor.bet   | premium   | $44,422.30 | —             | 98             | 32     | 7      | Sav.com, LLC - 23 |
+| adaptive.bet  | available | $14.99     | $33.99        | 76             | 32     | 8      | name.com          |
+| new.bet       | resell    | —          | —             | 82             | 48     | 3      | Dynadot Inc       |
+| keen.bet      | premium   | $31,751.71 | —             | 64             | 27     | 4      | Sav.com, LLC - 12 |
+| movement.bet  | available | $14.99     | —             | 88             | 31     | 8      | name.com          |
+| marketing.bet | resell    | —          | —             | 74             | 48     | 9      | Spaceship, Inc.   |
+| barter.bet    | premium   | $82.50     | —             | 68             | 25     | 6      | name.com          |
+| abuse.bet     | available | $14.99     | —             | 80             | 30     | 5      | name.com          |
+| creative.bet  | resell    | —          | —             | 92             | 46     | 8      | Dynadot Inc       |
+| saturday.bet  | premium   | $312.50    | —             | 110            | 24     | 8      | name.com          |
+| notion.bet    | available | $14.99     | —             | 74             | 29     | 6      | name.com          |
+| awesome.bet   | resell    | —          | —             | 98             | 44     | 7      | 1API GmbH         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BET One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BET One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
