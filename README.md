@@ -1,10 +1,10 @@
-# Available .BET One-Word Domains (10,913)
+# Available .BET One-Word Domains (10,920)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C913%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C920%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .bet one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **10,913 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **10,920 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,913 domains · **Median ask:** $246.54 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 10,920 domains · **Median ask:** $218.08 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-06-04  
-**Canonical page:** `https://unique.domains/domains/tld/bet`  
+**Last updated:** 2026-08-06
+**Canonical page:** `https://unique.domains/domains/tld/bet`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .BET one-word domain c
 
 ### Files
 
-- `bet.csv` — public CSV extract (1,000 rows)
-- `bet.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `bet.csv`, public CSV extract (1,000 rows)
+- `bet.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar         |
-| ------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| reunion.bet   | available | $14.99     | —             | 70             | 40     | 7      | name.com          |
-| topic.bet     | resell    | $14.99     | —             | 90             | 20     | 5      | GoDaddy.com, LLC  |
-| smith.bet     | premium   | $625       | —             | 66             | 40     | 5      | name.com          |
-| process.bet   | available | $14.99     | —             | 94             | 35     | 7      | name.com          |
-| paddle.bet    | resell    | —          | —             | 86             | 79     | 6      | GoDaddy.com, LLC  |
-| payment.bet   | premium   | $1,250     | —             | 78             | 36     | 7      | name.com          |
-| massage.bet   | available | $14.99     | —             | 94             | 32     | 7      | name.com          |
-| aladdin.bet   | resell    | —          | —             | 76             | 67     | 7      | GoDaddy.com, LLC  |
-| outdoor.bet   | premium   | $44,422.30 | —             | 98             | 32     | 7      | Sav.com, LLC - 23 |
-| adaptive.bet  | available | $14.99     | $33.99        | 76             | 32     | 8      | name.com          |
-| new.bet       | resell    | —          | —             | 82             | 48     | 3      | Dynadot Inc       |
-| keen.bet      | premium   | $31,751.71 | —             | 64             | 27     | 4      | Sav.com, LLC - 12 |
-| movement.bet  | available | $14.99     | —             | 88             | 31     | 8      | name.com          |
-| marketing.bet | resell    | —          | —             | 74             | 48     | 9      | Spaceship, Inc.   |
-| barter.bet    | premium   | $82.50     | —             | 68             | 25     | 6      | name.com          |
-| abuse.bet     | available | $14.99     | —             | 80             | 30     | 5      | name.com          |
-| creative.bet  | resell    | —          | —             | 92             | 46     | 8      | Dynadot Inc       |
-| saturday.bet  | premium   | $312.50    | —             | 110            | 24     | 8      | name.com          |
-| notion.bet    | available | $14.99     | —             | 74             | 29     | 6      | name.com          |
-| awesome.bet   | resell    | —          | —             | 98             | 44     | 7      | 1API GmbH         |
+| domain     | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar         |
+| ---------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| bce.bet    | available | $14.99     | —             | medium         | low    | 3      | name.com          |
+| topic.bet  | resell    | $14.99     | —             | high           | low    | 5      | GoDaddy.com, LLC  |
+| keen.bet   | premium   | $31,751.71 | —             | medium         | low    | 4      | Sav.com, LLC - 12 |
+| jot.bet    | available | $14.99     | —             | high           | low    | 3      | name.com          |
+| new.bet    | resell    | —          | —             | high           | medium | 3      | Dynadot Inc       |
+| lose.bet   | premium   | $82.50     | —             | medium         | low    | 4      | name.com          |
+| LLP.bet    | available | $14.99     | —             | high           | low    | 3      | name.com          |
+| boat.bet   | resell    | —          | —             | high           | low    | 4      | Sav.com, LLC - 17 |
+| pair.bet   | premium   | $625       | —             | medium         | low    | 4      | name.com          |
+| lxv.bet    | available | $8.98      | $35.98        | low            | low    | 3      | namecheap         |
+| chip.bet   | resell    | —          | —             | high           | low    | 4      | Spaceship, Inc.   |
+| Gregg.bet  | premium   | $312.50    | —             | medium         | low    | 5      | name.com          |
+| NWO.bet    | available | $14.99     | —             | medium         | low    | 3      | name.com          |
+| city.bet   | resell    | —          | —             | high           | medium | 4      | Dynadot Inc       |
+| smith.bet  | premium   | $625       | —             | medium         | medium | 5      | name.com          |
+| spf.bet    | available | $14.99     | —             | high           | low    | 3      | name.com          |
+| clay.bet   | resell    | —          | —             | high           | low    | 4      | Sav.com, LLC - 24 |
+| barter.bet | premium   | $82.50     | —             | medium         | low    | 6      | name.com          |
+| xci.bet    | available | $8.98      | $35.98        | low            | low    | 3      | namecheap         |
+| fill.bet   | resell    | —          | —             | medium         | low    | 4      | Epik LLC          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 10,913 live domains                        |
+| 1,000-row public sample | 10,920 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word domains on the .bet extension. That makes the core decision less about extension choice and more about the word itself: how clean it reads, how naturally it pairs with betting use cases, and how much naming risk it adds. Names such as shout.bet, candle.bet, despite.bet, and aggressive.bet show the range here, from punchy and memorable to abstract or harder to position. For founders, the strongest options are usually simple, pronounceable words that feel ownable and easy to explain. For investors, the better candidates are typically words with broad recognition, clear buyer relevance, and realistic carry cost relative to the median ask.
+This list of domains covers one-word .bet names across a wide price range, from sub-$500 listings to a small number above $10,000. Most names in this set show low current demand scores, with a small cluster (20 domains) ranking in the top 15% by demand. Status mix skews heavily available (9,892), with smaller pools of premium (251) and resell (777) listings. Names like printers.bet, loans.bet, and wines.bet show a gap between ask price and reference pricing worth noting when comparing options.
 
-- All results are one-word domains on the .bet extension
-- Median ask across this selection is 243.62
-- Prioritize simple words with clear betting relevance
-- Watch renewal economics on non-mainstream TLDs
+- 9,008 of 10,920 names ask under $500
+- Median ask price is roughly $218
+- 251 listed as premium status, 777 as resell
+- 20 domains rank in the top 15% for demand
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BET One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BET One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
