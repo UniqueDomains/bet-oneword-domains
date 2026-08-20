@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .bet one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 15,592 domains · **Median ask:** $149.72 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/bet`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar         |
-| ------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| something.bet | available | $14.99     | —             | high           | low    | 9      | name.com          |
-| tough.bet     | resell    | —          | —             | high           | low    | 5      | GoDaddy.com, LLC  |
-| fond.bet      | available | $14.99     | $33.99        | high           | low    | 4      | name.com          |
-| solo.bet      | available | —          | —             | high           | low    | 4      | —                 |
-| bce.bet       | available | $14.99     | —             | medium         | low    | 3      | name.com          |
-| topic.bet     | resell    | $14.99     | —             | high           | low    | 5      | GoDaddy.com, LLC  |
-| keen.bet      | premium   | $31,751.71 | —             | medium         | low    | 4      | Sav.com, LLC - 12 |
-| jot.bet       | available | $14.99     | —             | high           | low    | 3      | name.com          |
-| new.bet       | resell    | —          | —             | high           | medium | 3      | Dynadot Inc       |
-| lose.bet      | premium   | $82.50     | —             | medium         | low    | 4      | name.com          |
-| LLP.bet       | available | $14.99     | —             | high           | low    | 3      | name.com          |
-| boat.bet      | resell    | —          | —             | high           | low    | 4      | Sav.com, LLC - 17 |
-| pair.bet      | premium   | $625       | —             | medium         | low    | 4      | name.com          |
-| lxv.bet       | available | $8.98      | $35.98        | low            | low    | 3      | namecheap         |
-| chip.bet      | resell    | —          | —             | high           | low    | 4      | Spaceship, Inc.   |
-| Gregg.bet     | premium   | $312.50    | —             | medium         | low    | 5      | name.com          |
-| NWO.bet       | available | $14.99     | —             | medium         | low    | 3      | name.com          |
-| city.bet      | resell    | —          | —             | high           | medium | 4      | Dynadot Inc       |
-| smith.bet     | premium   | $625       | —             | medium         | medium | 5      | name.com          |
-| spf.bet       | available | $14.99     | —             | high           | low    | 3      | name.com          |
+| domain     | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar         |
+| ---------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| bce.bet    | available | $14.99     | —             | medium         | low    | 3      | name.com          |
+| topic.bet  | resell    | $14.99     | —             | high           | low    | 5      | GoDaddy.com, LLC  |
+| keen.bet   | premium   | $31,751.71 | —             | medium         | low    | 4      | Sav.com, LLC - 12 |
+| jot.bet    | available | $14.99     | —             | high           | low    | 3      | name.com          |
+| new.bet    | resell    | —          | —             | high           | medium | 3      | Dynadot Inc       |
+| lose.bet   | premium   | $82.50     | —             | medium         | low    | 4      | name.com          |
+| LLP.bet    | available | $14.99     | —             | high           | low    | 3      | name.com          |
+| boat.bet   | resell    | —          | —             | high           | low    | 4      | Sav.com, LLC - 17 |
+| pair.bet   | premium   | $625       | —             | medium         | low    | 4      | name.com          |
+| lxv.bet    | available | $8.98      | $35.98        | low            | low    | 3      | namecheap         |
+| chip.bet   | resell    | —          | —             | high           | low    | 4      | Spaceship, Inc.   |
+| Gregg.bet  | premium   | $312.50    | —             | medium         | low    | 5      | name.com          |
+| NWO.bet    | available | $14.99     | —             | medium         | low    | 3      | name.com          |
+| city.bet   | resell    | —          | —             | high           | medium | 4      | Dynadot Inc       |
+| smith.bet  | premium   | $625       | —             | medium         | medium | 5      | name.com          |
+| spf.bet    | available | $14.99     | —             | high           | low    | 3      | name.com          |
+| clay.bet   | resell    | —          | —             | high           | low    | 4      | Sav.com, LLC - 24 |
+| banned.bet | premium   | $312.50    | $312.50       | low            | low    | 6      | name.com          |
+| xci.bet    | available | $8.98      | $35.98        | low            | low    | 3      | namecheap         |
+| fill.bet   | resell    | —          | —             | medium         | low    | 4      | Epik LLC          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BET One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BET One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
