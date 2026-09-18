@@ -1,5 +1,5 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
-7d9b840a-8484-40e2-9687-095a8e5ad0a7,lunch.bet,resell,,,high,low,5,"NameCheap, Inc.",10/07/2025 14:21,10/07/2026 14:21,
+7d9b840a-8484-40e2-9687-095a8e5ad0a7,lunch.bet,resell,,,high,low,5,"NameCheap, Inc.",10/07/2025 14:21,10/07/2027 14:21,18/09/2026 01:41
 24635119-2d7c-4056-955b-30c955402b49,ugly.bet,available,14.99,33.99,high,low,4,name.com,,,
 c70e9226-29b0-4980-9982-d426c05aeba4,oldage.bet,available,14.99,,low,low,7,name.com,,,
 dd9e1c91-806b-491d-8a7e-fc374caf7c01,afterwards.bet,available,8.98,35.98,low,low,10,namecheap,,,
@@ -213,7 +213,7 @@ f6e9b6d7-5199-46aa-b3a0-0d78eb975f94,againstallodds.bet,available,14.99,,high,lo
 6ddf501b-5435-4cdd-bac4-bd861a2dc358,gogreen.bet,available,14.99,,medium,low,8,name.com,,,
 4401cd2b-5475-4395-849b-06809a0b2d7e,aciduric.bet,available,8.98,35.98,low,low,8,namecheap,,,
 26a08eac-62e0-4378-bdd2-8bcb5c1ae42f,bellied.bet,available,8.98,35.98,low,low,7,namecheap,,,09/08/2026 13:25
-deda915e-90a0-456f-8603-d3bd2d2215e6,mecca.bet,resell,,,high,low,5,Dynadot Inc,03/07/2020 00:00,03/07/2026 00:00,
+deda915e-90a0-456f-8603-d3bd2d2215e6,mecca.bet,resell,,,high,low,5,Dynadot Inc,03/07/2020 00:00,03/07/2027 00:00,17/09/2026 12:07
 91a3bcfd-5d08-4c07-bf66-aa467e0b5ef5,setaside.bet,available,8.98,35.98,low,low,9,namecheap,,,06/08/2026 09:13
 a212cef7-9055-4da1-a10a-bffdc04ed907,comely.bet,available,8.98,35.98,low,low,6,namecheap,,,09/08/2026 06:13
 a6c7dd18-05d6-48ef-851c-d19d7f769f79,smith.bet,premium,625,,medium,medium,5,name.com,,,
@@ -359,7 +359,6 @@ c9c67721-9279-441e-86ce-afee1308b28b,gotoilet.bet,available,14.99,,medium,low,9,
 ac4e23cb-4971-4d68-8e45-e4c9773fe1e0,snapping.bet,available,14.99,,medium,low,8,name.com,,,
 56dffd84-5e6d-4592-98fd-09bf62a521c0,albinistic.bet,available,8.98,35.98,low,low,10,namecheap,,,
 73dc1d8b-013f-4f7a-8e15-2f2a3b44f5aa,amnionic.bet,available,8.98,35.98,low,low,8,namecheap,,,
-fb3b84a5-1aa8-4442-9c4e-d44259c356a8,freedom.bet,resell,,,high,medium,7,"GoDaddy.com, LLC",02/07/2020 14:49,02/07/2026 14:49,
 c2a41025-36ce-4c23-9205-10c05da129a7,pair.bet,premium,625,,medium,low,4,name.com,,,
 3cfb53e1-f081-4b62-b1f6-8c17a43730aa,invisible.bet,resell,,,high,low,9,"Sav.com, LLC - 34",26/03/2026 15:15,26/03/2027 15:15,
 cdbc5f9f-600a-46e1-b11a-c4362970f7e2,andantino.bet,available,8.98,35.98,low,low,9,namecheap,,,
@@ -999,3 +998,4 @@ e1050999-34fc-4f11-ac0b-8c081236d8a2,splashabout.bet,available,14.99,,medium,low
 485c5b90-c484-4e1c-9569-740d0bb45ff6,playbyear.bet,available,14.99,,medium,low,11,name.com,,,
 895b07b7-9fde-428d-9535-3cefe071ec37,particles.bet,available,14.99,,low,low,9,name.com,,,
 8d852908-42bb-4811-8ee9-32cbe5520ee2,butterflykeyboard.bet,available,14.99,,high,low,18,name.com,,,
+c47a24d6-a670-48a4-8847-7eb88842071d,scenicroute.bet,available,14.99,,high,low,12,name.com,,,
