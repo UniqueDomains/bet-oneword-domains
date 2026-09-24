@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .bet one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 27,440 domains · **Median ask:** $89.02 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/bet`
 **Best for:** founders, investors, studios
 
@@ -77,9 +77,9 @@ print(df.head())
 | boat.bet   | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 17 |
 | smith.bet  | premium   | $625      | —             | medium         | medium | 5      | name.com          |
 | nwo.bet    | available | $14.99    | —             | medium         | low    | 3      | name.com          |
-| chip.bet   | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.   |
+| chip.bet   | resell    | —         | —             | medium         | low    | 4      | Spaceship, Inc.   |
 | banned.bet | premium   | $312.50   | $312.50       | low            | low    | 6      | name.com          |
-| spf.bet    | available | $14.99    | —             | high           | low    | 3      | name.com          |
+| spf.bet    | available | $8.98     | $35.98        | medium         | low    | 3      | namecheap         |
 | city.bet   | resell    | —         | —             | high           | medium | 4      | Dynadot Inc       |
 | barter.bet | premium   | $82.50    | —             | medium         | low    | 6      | name.com          |
 | xci.bet    | available | $8.98     | $35.98        | low            | low    | 3      | namecheap         |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BET One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BET One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

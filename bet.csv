@@ -4,7 +4,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 c70e9226-29b0-4980-9982-d426c05aeba4,oldage.bet,available,14.99,,low,low,7,name.com,,,
 dd9e1c91-806b-491d-8a7e-fc374caf7c01,afterwards.bet,available,8.98,35.98,low,low,10,namecheap,,,
 cbaba00e-019d-4d16-9ad1-66f1a7ed3421,backhanded.bet,available,8.98,35.98,low,low,10,namecheap,,,08/08/2026 05:38
-27a04e8c-0b4c-467c-a0d1-11eaad253a06,creative.bet,resell,,,high,medium,8,Dynadot Inc,08/08/2023 03:51,08/08/2027 03:51,19/09/2026 14:10
+27a04e8c-0b4c-467c-a0d1-11eaad253a06,creative.bet,resell,,,medium,low,8,Dynadot Inc,08/08/2023 03:51,08/08/2027 03:51,24/09/2026 01:39
 33e5fc0c-f4a5-44c6-ba52-9537ced4c2bc,liverish.bet,available,8.98,35.98,low,low,8,namecheap,,,07/08/2026 14:19
 beb5da01-e802-4479-b0aa-1c25f9038de1,tobacco.bet,available,14.99,,medium,low,7,name.com,,,
 a9776e38-8e6d-44f6-8e83-bb5036374057,xxxvi.bet,available,8.98,35.98,low,low,5,namecheap,,,
@@ -87,7 +87,7 @@ f4be889f-c83b-46ee-8085-3375c6563767,realizable.bet,available,8.98,35.98,medium,
 e8052410-8b6c-40f9-b8b6-8afee305ed4c,jot.bet,available,14.99,,high,low,3,name.com,,,
 5880c897-b0bd-4dbe-ad0b-e2a4ffbbf1bc,diskdrive.bet,available,14.99,,high,low,10,name.com,,,
 8de8c5ea-267b-4ce2-a0b6-4af789b1c6e0,badmintoncourt.bet,available,14.99,,high,low,15,name.com,,,
-14ff0fd1-f044-42a0-801a-c7378a2a3d8e,definite.bet,available,14.99,33.99,high,low,8,name.com,,,
+14ff0fd1-f044-42a0-801a-c7378a2a3d8e,definite.bet,available,17.99,33.99,medium,low,8,name.com,,,24/09/2026 05:06
 7f4db538-f157-4892-b367-17249b0805bd,wakening.bet,available,14.99,,high,low,8,name.com,,,
 3ac44bc0-fc31-48ae-8498-70528c324381,certain.bet,resell,,,high,low,7,Dynadot Inc,20/09/2025 23:19,20/09/2026 23:19,
 786961b3-ce98-43de-9323-ef8d8f51e8c5,rideshare.bet,available,14.99,,high,low,9,name.com,,,
@@ -139,7 +139,7 @@ cd117376-0aea-4dec-b68d-d1f70d5e55b6,newsmedia.bet,available,14.99,,high,low,10,
 5d9c47cb-8356-4851-b82d-2a75fafa64a9,cloth.bet,available,14.99,,high,low,5,name.com,,,
 caa6ba51-72b9-4a22-bc9b-4872090529cb,knowledgeable.bet,available,14.99,,high,low,13,name.com,,,
 11e369b5-8da3-4428-af61-bb01c2cb9549,antiracist.bet,available,14.99,,high,low,11,name.com,,,
-25860d88-6c96-4038-abcf-1d908a6ebb51,supposed.bet,available,14.99,33.99,high,low,8,name.com,,,
+25860d88-6c96-4038-abcf-1d908a6ebb51,supposed.bet,available,8.98,35.98,medium,low,8,namecheap,,,23/09/2026 20:34
 6e29ab53-ed5d-40b7-b273-1b1c7a8bfb56,sombuddy.bet,available,14.99,,medium,low,8,name.com,,,
 488355ef-6719-46ec-ac56-deca8cbc1bf5,declining.bet,available,14.99,,medium,low,9,name.com,,,
 1f6c6ef1-d610-4bfe-b684-8abd9354684f,justnow.bet,available,14.99,,medium,low,8,name.com,,,
@@ -163,7 +163,7 @@ d202099d-ad6c-4d5d-93a3-9642daca09fd,amusing.bet,available,8.98,35.98,low,low,7,
 47da981a-cc7e-4662-9f90-fb3ddd52237d,southkorea.bet,available,14.99,,low,low,11,name.com,,,
 21f94f36-dc80-454f-b9cd-e48d73787a1c,adoptable.bet,available,8.98,35.98,low,low,9,namecheap,,,
 34dcc28b-2f89-4b57-be25-115b8a3ab566,thirdclass.bet,available,14.99,,low,low,11,name.com,,,
-8f287b64-cd0a-41d6-b89c-99e81b70bfdb,reinforced.bet,available,14.99,,medium,low,10,name.com,,,
+8f287b64-cd0a-41d6-b89c-99e81b70bfdb,reinforced.bet,available,8.98,35.98,low,low,10,namecheap,,,23/09/2026 10:25
 2d6d6f13-4926-43a0-a8a6-316421611730,standbehind.bet,available,14.99,,low,low,12,name.com,,,
 fd23d17d-38f2-4b57-9cc5-7a5f54d4bdeb,continuously.bet,available,14.99,,medium,low,12,name.com,,,
 7404f978-cb15-45f2-904a-5f17ea7db8f4,lighten.bet,available,14.99,,high,low,7,name.com,,,
@@ -184,11 +184,10 @@ d21d97d1-155f-4a00-9a85-46774a2adef5,repeated.bet,available,14.99,,medium,low,8,
 645cf773-505f-436f-9ecb-14762568014d,outer.bet,available,14.99,,high,low,5,name.com,,,
 28388595-e3dc-4a2c-8b37-41dfb77d7129,disgrace.bet,available,14.99,,high,low,8,name.com,,,
 f3ac113b-1d53-4979-bb5a-508906b94cb0,enduring.bet,available,8.98,35.98,low,low,8,namecheap,,,
-8cab6068-0b33-4aca-b7b2-19f6a0404dd0,delightful.bet,available,14.99,33.99,medium,low,10,name.com,,,
+8cab6068-0b33-4aca-b7b2-19f6a0404dd0,delightful.bet,available,8.98,35.98,low,low,10,namecheap,,,24/09/2026 05:38
 09d05e94-e0ad-4cd6-a80d-f62f78277d8d,fallfor.bet,available,14.99,,medium,low,8,name.com,,,
 05d471d7-76d8-4205-919b-2a2225414355,granted.bet,available,14.99,,high,low,7,name.com,,,
 711a5285-8965-45c9-96b0-eed0bed78293,soccer.bet,resell,,,high,low,6,"Sav.com, LLC",13/10/2022 17:50,13/10/2026 17:50,
-75bf3a56-ce20-4942-babb-1ef6016867e1,final.bet,resell,,,high,low,5,Dynadot0 LLC,08/10/2020 14:31,08/10/2026 14:31,
 8be9c823-f6aa-483d-b003-6023209e058c,awesome.bet,resell,,,medium,low,7,1API GmbH,03/03/2016 16:00,03/03/2027 16:00,22/09/2026 15:04
 a32a80c1-df2a-4ffc-bae8-e38e57570211,wacky.bet,available,8.98,35.98,low,low,5,namecheap,,,22/09/2026 08:23
 e8632e75-7f0a-4623-b5f1-6c998738a793,sensory.bet,available,14.99,,high,low,7,name.com,,,
@@ -200,7 +199,7 @@ fffa3658-b2f5-423a-8f60-6d24d90c0a58,wherethehell.bet,available,14.99,,low,low,1
 d9478909-933c-433c-9d2a-6edc21ef47fb,eremitical.bet,available,8.98,35.98,low,low,10,namecheap,,,
 6d81280b-9395-4dba-9924-3d8ab1affa30,commentate.bet,available,14.99,,high,low,10,name.com,,,
 40a9154b-3024-495e-a351-da4806842834,embracing.bet,available,14.99,,high,low,9,name.com,,,
-304810b1-e0eb-4569-9eee-fadcf3f053b6,continuous.bet,available,14.99,33.99,high,low,10,name.com,,,
+304810b1-e0eb-4569-9eee-fadcf3f053b6,continuous.bet,available,17.99,33.99,medium,low,10,name.com,,,23/09/2026 22:20
 89f590be-1cc6-483e-ba03-df949d019094,gardencentre.bet,available,14.99,,high,low,13,name.com,,,
 606cd68c-dc9b-4f4f-b67e-38aeb66471f4,capable.bet,available,8.98,35.98,medium,low,7,namecheap,,,21/09/2026 18:33
 62ad856a-cdb9-4a5d-88fe-d4a69139042a,sleepwith.bet,available,14.99,,low,low,10,name.com,,,
@@ -220,7 +219,7 @@ a6c7dd18-05d6-48ef-851c-d19d7f769f79,smith.bet,premium,625,,medium,medium,5,name
 82ce0acc-dfdf-49af-b38b-052ff62d04fa,billbird.bet,available,14.99,,medium,low,9,name.com,,,
 3a763c7e-fb9d-41d3-9a7c-f97854930320,quickwitted.bet,available,14.99,,medium,low,12,name.com,,,
 348f609d-9baf-46b0-954a-aeb5241a6eb4,theft.bet,available,14.99,,medium,low,5,name.com,,,
-43ea0707-7d98-452c-ab48-8819cc1f364e,marketing.bet,resell,,,medium,low,9,"Spaceship, Inc.",15/03/2025 15:15,15/03/2027 15:15,19/09/2026 13:53
+43ea0707-7d98-452c-ab48-8819cc1f364e,marketing.bet,resell,,,medium,low,9,"Spaceship, Inc.",15/03/2025 15:15,15/03/2027 15:15,23/09/2026 16:46
 cbc05c52-17d6-48f8-abc6-2f60a872de04,lamppost.bet,available,14.99,,medium,low,8,name.com,,,
 6b48d1d5-011c-441e-a11a-b59fb998312f,actable.bet,available,8.98,35.98,low,low,7,namecheap,,,
 b4b05191-fc53-4060-b883-66edf1f4debc,lose.bet,premium,82.5,,medium,low,4,name.com,,,
@@ -236,7 +235,7 @@ aa4e2e3f-3340-433e-959c-e306a5d38473,seeds.bet,available,14.99,,low,low,5,name.c
 56e3d645-7a07-4840-95d7-ea613116c085,rubbishbin.bet,available,14.99,,medium,low,11,name.com,,,
 427792b0-cbe1-4ca8-a9d0-d6461363d632,airheaded.bet,available,8.98,35.98,low,low,9,namecheap,,,
 80872638-0f34-4e54-8d87-1529a436f359,totime.bet,available,14.99,,low,low,7,name.com,,,
-5fa72e78-3333-4014-a18d-872ea0703074,contracted.bet,available,14.99,33.99,medium,low,10,name.com,,,
+5fa72e78-3333-4014-a18d-872ea0703074,contracted.bet,available,8.98,35.98,low,low,10,namecheap,,,23/09/2026 22:26
 270b9e0e-a3de-43a2-ba73-8b7b2260b4c9,bedrid.bet,available,8.98,35.98,low,low,6,namecheap,,,09/08/2026 07:07
 997327d3-7ab4-4cf3-a564-1474674d38ec,australiaday.bet,available,14.99,,high,low,13,name.com,,,
 cb9ea50b-7a36-4155-bc31-e3f0122b72ce,beneath.bet,available,14.99,,medium,low,7,name.com,,,
@@ -256,7 +255,7 @@ d69d03d9-696d-455a-b207-99750d01be2d,postaladdress.bet,available,14.99,,medium,l
 97566c74-2f1a-4f2b-8b01-2286237b31e0,massage.bet,available,14.99,,high,low,7,name.com,,,
 5e93aadb-9925-4346-808d-5ac3124ac0b2,telephonecall.bet,available,14.99,,medium,low,14,name.com,,,
 e9263797-184e-4f75-9275-7dd35e34667f,sailor.bet,resell,,,medium,low,6,Dynadot Inc,02/02/2026 17:00,02/02/2027 17:00,
-5bb96fde-d9eb-45b3-b741-c10f4fbf419c,learned.bet,available,14.99,33.99,high,low,7,name.com,,,
+5bb96fde-d9eb-45b3-b741-c10f4fbf419c,learned.bet,available,8.98,35.98,low,low,7,namecheap,,,23/09/2026 19:31
 7edf8eb8-7412-4a95-88b2-ba4ecb2816c4,registeredtrademark.bet,available,14.99,,medium,low,20,name.com,,,
 bf23f4f3-0ec9-4dc0-891a-f6226bd392c1,haircut.bet,available,14.99,,high,low,7,name.com,,,
 da2a3840-f09d-4e19-8063-520b6dd3a6d1,comeintoforce.bet,available,14.99,,high,low,15,name.com,,,
@@ -270,7 +269,7 @@ b56cde94-11b7-4a22-bfda-bac84faa3a9e,severe.bet,available,8.98,35.98,low,low,6,n
 351bcb99-a065-4f48-bf83-a095fa7c1071,alittlebit.bet,available,14.99,,medium,low,12,name.com,,,
 429f5832-52ac-465d-a8fc-91c1195d5bdf,acanthoid.bet,available,8.98,35.98,low,low,9,namecheap,,,
 c3f4aace-8758-4643-b422-2b2aed047781,aldermanly.bet,available,8.98,35.98,low,low,10,namecheap,,,
-5e5badd5-5acb-4c91-88fc-3ef1c3f785ca,compelling.bet,available,14.99,33.99,high,low,10,name.com,,,
+5e5badd5-5acb-4c91-88fc-3ef1c3f785ca,compelling.bet,available,8.98,35.98,medium,low,10,namecheap,,,23/09/2026 17:02
 b076ff4f-4f36-4eb5-bbc8-8884553c5657,sawtooth.bet,available,14.99,,low,low,9,name.com,,,
 ea6c1fc7-9bf7-4266-b157-55f720c61dfb,ribald.bet,available,8.98,35.98,low,low,6,namecheap,,,09/08/2026 02:15
 a1a810f3-3c16-4166-a126-ccbf5cfc9314,lettherebelight.bet,available,14.99,,medium,low,18,name.com,,,
@@ -325,7 +324,7 @@ b55094e2-8ab8-424d-87d1-159ef4807b59,makefunof.bet,available,14.99,,high,low,11,
 32977b8e-535d-4681-b28e-84abaae75b9d,washing.bet,premium,625,,high,low,7,name.com,,,
 75d8aa61-5695-47a6-9b16-4f86e8700de0,wealthy.bet,premium,650,650,medium,low,7,namecheap,,,21/09/2026 21:57
 848a423c-14c0-46cc-b14b-c17113c98d63,amphibious.bet,available,8.98,35.98,low,low,10,namecheap,,,
-ce5c1cc4-7265-43b7-9c98-cfa6553933d5,prodigy.bet,resell,,,high,low,7,"Sav.com, LLC - 9",31/08/2024 17:00,31/08/2026 17:00,
+ce5c1cc4-7265-43b7-9c98-cfa6553933d5,prodigy.bet,resell,,,high,low,7,"Sav.com, LLC - 9",31/08/2024 17:00,31/08/2027 17:00,23/09/2026 15:00
 686f7a6f-0341-4edb-908d-506461dbca9d,publication.bet,available,14.99,,medium,low,11,name.com,,,
 b7bbd62f-ffd0-4c7f-a4a4-536cd4f0a099,aflare.bet,available,8.98,35.98,low,low,6,namecheap,,,
 4420f04f-f947-4971-ba94-724c69b984aa,movement.bet,available,14.99,,high,low,8,name.com,,,
@@ -361,7 +360,7 @@ c2a41025-36ce-4c23-9205-10c05da129a7,pair.bet,premium,625,,medium,low,4,name.com
 cdbc5f9f-600a-46e1-b11a-c4362970f7e2,andantino.bet,available,8.98,35.98,low,low,9,namecheap,,,
 0c4ff73b-40fd-4c7e-afb9-7b4bffb46417,holding.bet,available,14.99,,high,low,7,name.com,,,
 1f9678bb-1418-4248-ba7c-a402a9a4f833,prominent.bet,available,14.99,,high,low,9,name.com,,,
-f714b188-6d91-4f3f-88b2-63031cf41eab,buried.bet,available,14.99,,medium,low,6,name.com,,,
+f714b188-6d91-4f3f-88b2-63031cf41eab,buried.bet,available,8.98,35.98,low,low,6,namecheap,,,23/09/2026 11:29
 8050a378-7146-4b56-bd4c-91bd85dc9ea1,traveler.bet,available,14.99,,medium,low,8,name.com,,,
 92dc9f7f-8540-4446-a12e-f97a8659c9f3,aswell.bet,available,14.99,,high,low,7,name.com,,,
 5e717ca3-db2f-4d02-a499-822852aa75e9,vaccination.bet,available,14.99,,medium,low,11,name.com,,,
@@ -408,7 +407,7 @@ c335caae-fd43-47ff-a46f-974d3e9862a9,annular.bet,available,8.98,35.98,low,low,7,
 75c39fb9-784c-4223-a290-6d95cfd21def,tossaway.bet,available,14.99,,medium,low,9,name.com,,,
 63dcd87a-6c0d-4351-83c2-0c6b5916c044,arborary.bet,available,8.98,35.98,low,low,8,namecheap,,,06/08/2026 13:23
 1387ef28-2079-4581-9eb5-423e8fe0cb14,torrid.bet,available,8.98,35.98,low,low,6,namecheap,,,06/08/2026 16:35
-e85b4df8-fbf7-4534-9b17-be39d6152aad,soil.bet,available,14.99,33.99,high,low,4,name.com,,,
+e85b4df8-fbf7-4534-9b17-be39d6152aad,soil.bet,available,8.98,35.98,low,low,4,namecheap,,,24/09/2026 02:55
 3041ae48-b927-458a-a5f8-3e1716411267,outlet.bet,resell,,,high,low,6,"Sav.com, LLC",14/11/2025 19:16,14/11/2026 19:16,
 42f4bffd-93b5-4130-99a1-ffe38a45ad9f,basketball.bet,available,,,high,low,10,,,,
 5c153d50-0f22-431d-b09c-8ec4a274012f,leia.bet,available,14.99,,high,low,4,name.com,,,
@@ -448,7 +447,6 @@ ae5d4403-74a2-4e22-af45-003efcc44043,atthelast.bet,available,14.99,,medium,low,1
 b799c649-5a7e-4670-bf88-a918dfb6821c,mumbojumbo.bet,available,14.99,,low,low,11,name.com,,,
 a836d0ff-14a7-4a06-b2e3-b31fe2af7244,comeinto.bet,available,14.99,,high,low,9,name.com,,,
 0c825fb5-1420-4ca3-82d0-eda20f3671c8,riskcapital.bet,available,14.99,,low,low,12,name.com,,,
-1d6c87e8-a279-4935-828f-0e99e3d5f4d1,comfy.bet,resell,,,high,low,5,"Sav.com, LLC - 17",29/05/2025 15:16,29/05/2026 15:16,
 246a856b-7cba-4fc7-b62a-9f404bbb6338,wakingup.bet,available,14.99,,high,low,9,name.com,,,
 fe38beab-5bc6-449f-9c33-e901736fc5e5,revelation.bet,available,14.99,,medium,low,10,name.com,,,
 2f8010ee-8ec7-4968-86d9-c41bb6373473,clxxv.bet,available,8.98,35.98,low,low,5,namecheap,,,
@@ -478,7 +476,7 @@ d8d22b22-d079-42fb-b9c7-f59dee8f5aff,asof.bet,available,14.99,,medium,low,5,name
 0d3415a8-522d-4f80-9512-581b0931a3ac,anatomic.bet,available,8.98,35.98,low,low,8,namecheap,,,
 d24c0575-499e-4221-b084-f7cc656227ca,enough.bet,available,14.99,,high,low,6,name.com,,,
 dfa49e93-6f2e-476b-aeef-5f5fee297500,urban.bet,resell,,,medium,low,5,Dynadot Inc,21/05/2022 21:58,21/05/2027 21:58,
-36c0814f-7270-4d84-87d6-4137dccfc003,soandso.bet,available,14.99,,medium,low,9,name.com,,,
+36c0814f-7270-4d84-87d6-4137dccfc003,soandso.bet,available,8.98,35.98,low,low,9,namecheap,,,23/09/2026 11:19
 fe0c51bb-9299-4dcc-a110-b34ff3117420,gstring.bet,available,14.99,,medium,low,8,name.com,,,
 9a26abb1-0c96-404c-96f1-6fd25e2cb637,gotobedwith.bet,available,14.99,,medium,low,14,name.com,,,
 5d6f202a-1c30-44a7-9307-f0c2bbf792d3,delivery.bet,resell,,,high,low,8,Porkbun LLC,21/08/2024 08:05,21/08/2027 08:05,21/09/2026 05:12
@@ -516,7 +514,7 @@ c2c017fb-6565-4a5b-8253-711743fbf594,barber.bet,available,14.99,,medium,low,6,na
 b301fd58-cdac-45bf-b03c-d5b642d3afa2,xxxv.bet,available,8.98,35.98,low,low,4,namecheap,,,
 1c1c53f8-dcd4-40dd-aa7f-86358da1866b,plier.bet,available,14.99,,high,low,5,name.com,,,
 3886ff57-7a7c-4caa-83c3-4300e8ed42e0,befuddled.bet,available,8.98,35.98,low,low,9,namecheap,,,07/08/2026 11:41
-8404d6db-0e32-42ad-9af6-c9ac63e3903d,convenient.bet,available,14.99,,high,low,10,name.com,,,
+8404d6db-0e32-42ad-9af6-c9ac63e3903d,convenient.bet,available,8.98,35.98,medium,low,10,namecheap,,,23/09/2026 15:48
 4cec3bac-bb8e-44f4-8e17-dae68df223b3,tiein.bet,available,8.98,35.98,low,low,6,namecheap,,,07/08/2026 06:59
 7f1ec7ef-ccfe-406c-a860-228c4567905f,needy.bet,available,14.99,33.99,medium,low,5,name.com,,,
 2d91a3ae-148a-40dc-b8fa-f04c692983e8,labour.bet,available,14.99,,medium,low,6,name.com,,,
@@ -536,14 +534,14 @@ e740f051-923b-4cdc-b020-d9c85054a593,anorthic.bet,available,8.98,35.98,low,low,8
 a8b37a3a-84dd-49c9-85a2-51b232ec7bcc,airsick.bet,available,8.98,35.98,low,low,7,namecheap,,,
 170071c6-7f22-4c5d-9c55-3f4b498d78e2,surrogate.bet,available,8.98,35.98,low,low,9,namecheap,,,22/09/2026 02:27
 7129dc30-cbe9-491c-a055-2da73c16d5bd,threescore.bet,available,8.98,35.98,low,low,10,namecheap,,,
-e5654b3d-c01c-415a-b0c9-6dc80a3e7aba,chip.bet,resell,,,high,low,4,"Spaceship, Inc.",24/02/2025 15:15,24/02/2027 15:15,
+e5654b3d-c01c-415a-b0c9-6dc80a3e7aba,chip.bet,resell,,,medium,low,4,"Spaceship, Inc.",24/02/2025 15:15,24/02/2027 15:15,24/09/2026 01:56
 28a6ae1b-f8d0-4f47-9279-8e9b2a395091,analpha.bet,resell,,,low,low,10,"GoDaddy.com, LLC",04/02/2026 16:55,04/02/2027 16:55,
-fb61be20-8d22-4f0e-b2a8-848abf11bd48,considered.bet,available,14.99,33.99,high,low,10,name.com,,,
+fb61be20-8d22-4f0e-b2a8-848abf11bd48,considered.bet,available,8.98,35.98,medium,low,10,namecheap,,,23/09/2026 20:51
 11ec17ae-8e7f-4665-ad19-517196dca3e9,new.bet,resell,,,high,medium,3,Dynadot Inc,03/03/2016 16:00,03/03/2028 16:00,
 c55469d7-3899-456c-ae98-22273bc77b4d,appetising.bet,available,8.98,35.98,low,low,10,namecheap,,,06/08/2026 06:50
 f9de4428-1f69-4b0e-83ba-acbed3b41de2,economical.bet,available,14.99,33.99,medium,low,10,name.com,,,
 99a98e09-e2ed-43c4-826f-a7a170259bf4,bounce.bet,resell,,,medium,low,6,"NameCheap, Inc.",14/07/2023 12:47,14/07/2027 12:47,23/09/2026 01:22
-cfdca12d-a3d2-4c9e-958c-643767c77522,wanted.bet,resell,,,high,low,6,Dynadot Inc,29/09/2025 00:09,29/09/2026 00:09,
+cfdca12d-a3d2-4c9e-958c-643767c77522,wanted.bet,resell,,,low,low,6,Dynadot Inc,29/09/2025 00:09,29/09/2027 00:09,23/09/2026 14:03
 abbb5403-8d5c-4b1d-a315-2ff51248a073,ascensive.bet,available,8.98,35.98,low,low,9,namecheap,,,07/08/2026 00:46
 d0fae093-ef2d-49f9-9ccf-d37900079a86,wideopen.bet,available,14.99,,medium,low,9,name.com,,,
 3d0f16c9-9e17-45dd-9558-0f062fc5359e,invigorate.bet,available,8.98,35.98,medium,low,10,namecheap,,,22/09/2026 04:52
@@ -570,7 +568,7 @@ f8c34348-bf6d-4887-ae7a-6af746bbb88d,makehaste.bet,available,14.99,,high,low,10,
 f30811cf-de77-443c-a776-3493fbb07caf,investments.bet,premium,312.5,,medium,low,11,name.com,,,
 9d16083a-122d-4018-8ce3-f57205c4932a,inch.bet,available,14.99,,medium,low,4,name.com,,,
 d8811ae2-edb6-46c6-97eb-28435268e37e,grocery.bet,available,8.98,35.98,medium,low,7,namecheap,,,08/09/2026 13:48
-e196cba5-7041-4d43-b1a1-881b72ffc404,immense.bet,resell,,,high,low,7,Dynadot Inc,31/08/2024 07:48,31/08/2026 07:48,
+e196cba5-7041-4d43-b1a1-881b72ffc404,immense.bet,resell,,,high,low,7,"Spaceship, Inc.",31/08/2024 07:48,31/08/2027 07:48,23/09/2026 14:37
 9ca28601-ad74-41eb-b545-dabd106f58d4,tasks.bet,available,14.99,,medium,low,5,name.com,,,
 c450e607-9fac-4959-b280-1d3ed13e8a58,restriction.bet,available,14.99,,low,low,11,name.com,,,
 2659db5d-f904-4905-8599-c249f5516dbe,twoscore.bet,available,8.98,35.98,low,low,8,namecheap,,,
@@ -597,9 +595,8 @@ e0eae255-bf9d-49c6-8c4b-c8ab9688475a,country.bet,resell,,,high,low,7,DropCatch.c
 3e02a617-9aa9-4781-8b7d-a46d82d1d09a,basilar.bet,available,8.98,35.98,low,low,7,namecheap,,,08/08/2026 22:16
 3bdcfe29-8cea-4a47-a199-d59897d9e917,pointat.bet,available,14.99,,low,low,8,name.com,,,
 5e24b8d0-085e-4656-b704-2853be29af93,televisionchannel.bet,available,14.99,,high,low,18,name.com,,,
-e58b1b98-1075-45b4-978d-430ebdf24a13,opposite.bet,available,14.99,33.99,high,low,8,name.com,,,
 c42065ce-78d2-46cb-a8f2-08564b030feb,alienable.bet,available,8.98,35.98,low,low,9,namecheap,,,
-6944adc2-d630-4802-bd0a-90f050bb3db5,delayed.bet,available,14.99,33.99,medium,low,7,name.com,,,
+6944adc2-d630-4802-bd0a-90f050bb3db5,delayed.bet,available,8.98,35.98,low,low,7,namecheap,,,24/09/2026 05:13
 219ebf02-4143-49db-9897-32b4850d90a8,perforation.bet,available,14.99,,low,low,11,name.com,,,
 b4834456-5827-4dd3-862f-fc6e9d18edb4,getin.bet,available,14.99,,high,low,6,name.com,,,
 d1879258-c3d1-42fa-971f-5457d1ee0b9f,extendto.bet,available,14.99,,high,low,9,name.com,,,
@@ -622,7 +619,6 @@ a7e401ae-5982-417f-870f-37d946e36184,acoustic.bet,available,8.98,35.98,low,low,8
 9c28c47b-aeae-4c02-b00a-d873bd470209,been.bet,available,14.99,,medium,low,4,name.com,,,
 878f7b32-b808-4c79-84fc-7f8fc47f3173,westcountry.bet,available,14.99,,low,low,12,name.com,,,
 fa60d2f0-23a0-46d9-ae50-a945c8b51e2d,obscene.bet,available,8.98,35.98,low,low,7,namecheap,,,
-b8c31430-eb34-4e4e-afa2-1e438b0eaf27,symbol.bet,available,14.99,,high,low,6,name.com,,,
 e780544a-c4ed-4565-81a8-a490e079d386,webbrowser.bet,available,14.99,,high,low,11,name.com,,,
 60be457a-b7b3-49df-83cc-a627b1990224,opportunityroom.bet,available,14.99,,high,low,16,name.com,,,
 194adecb-add5-41a8-b856-8bc9640dda26,restrict.bet,available,8.98,35.98,low,low,8,namecheap,,,19/09/2026 17:10
@@ -647,7 +643,7 @@ cc9592f6-03f5-4422-b6ac-bbcff38bb6a2,hamilton.bet,available,,,medium,low,8,,,,
 2dc03731-ca81-442c-95f5-0f589ecdf414,magiccarpet.bet,available,14.99,,high,low,12,name.com,,,
 6d05bd96-8d80-4b68-b37e-5afed1d34cf9,bearable.bet,available,8.98,35.98,low,low,8,namecheap,,,09/08/2026 04:27
 959914b8-3712-4ca6-a0e7-7c1e3fbb444b,barter.bet,premium,82.5,,medium,low,6,name.com,,,
-be0cb4e3-5193-4582-9ae3-6f7682b47b67,process.bet,available,8.98,35.98,medium,low,7,namecheap,,,19/09/2026 12:26
+be0cb4e3-5193-4582-9ae3-6f7682b47b67,process.bet,available,8.98,35.98,medium,low,7,namecheap,,,23/09/2026 09:17
 375ede33-ee15-4cd8-b091-fa2a8abeebdc,formalize.bet,available,14.99,,high,low,9,name.com,,,
 1c7066a4-c448-479d-b474-983c4d410661,ethnic.bet,available,14.99,,high,low,6,name.com,,,
 1c899818-e65b-4998-bb9a-d311940cbf67,wondrous.bet,available,14.99,,high,low,8,name.com,,,
@@ -658,7 +654,7 @@ e0739f13-ec22-4806-bead-c6136ca4eb15,shy.bet,available,,,medium,low,3,,,,
 ad7e8467-35ae-4a39-a2fa-f5439819daf4,lowercase.bet,available,14.99,,high,low,9,name.com,,,
 e1a6b815-d0cb-4315-a391-686f573fc64c,travelling.bet,available,14.99,,high,low,10,name.com,,,
 83b46477-ea11-4eed-ae3a-8f8620fd9884,graywolf.bet,available,14.99,,high,low,9,name.com,,,
-5f822c22-0773-494f-82b5-b19978c082ff,envious.bet,available,14.99,33.99,medium,low,7,name.com,,,
+5f822c22-0773-494f-82b5-b19978c082ff,envious.bet,available,8.98,35.98,low,low,7,namecheap,,,24/09/2026 01:02
 cfea01e7-95ee-4c2a-9e2d-23cf805ed4bf,somebody.bet,available,14.99,,high,low,8,name.com,,,
 390f6c92-bded-403b-8429-aa02d1b6ab04,stranded.bet,available,14.99,,medium,low,8,name.com,,,
 a3e6eab0-e908-4f56-be67-55fd7d379196,warp.bet,resell,,,high,medium,4,"Sav.com, LLC - 10",15/03/2026 15:15,15/03/2027 15:15,
@@ -669,7 +665,7 @@ a3e6eab0-e908-4f56-be67-55fd7d379196,warp.bet,resell,,,high,medium,4,"Sav.com, L
 9938a990-92f9-46ab-8fa7-b24f7bee4568,rodshaped.bet,available,8.98,35.98,low,low,10,namecheap,,,08/08/2026 05:07
 2d8a0cb1-04c3-4166-969b-5325f4919e3b,agamous.bet,available,8.98,35.98,low,low,7,namecheap,,,
 dd4a43f4-4e0f-478e-a625-2f1803fdfc1d,sinners.bet,available,14.99,,low,low,7,name.com,,,
-937e5196-d81f-40bb-8238-30896418b246,right.bet,resell,,,high,low,5,"GoDaddy.com, LLC",03/03/2016 16:02,03/03/2027 16:02,
+937e5196-d81f-40bb-8238-30896418b246,right.bet,resell,,,medium,low,5,"GoDaddy.com, LLC",03/03/2016 16:02,03/03/2027 16:02,23/09/2026 23:38
 f34c333c-4d62-4d57-a6b4-4508f216e26c,aftuh.bet,available,14.99,,medium,low,5,name.com,,,
 911644de-c67f-4756-9cf0-438c1e8537b1,irritating.bet,available,8.98,35.98,low,low,10,namecheap,,,
 4f1272ce-d9f3-4890-8235-98aedbf8165f,attendant.bet,available,8.98,35.98,medium,low,9,namecheap,,,21/09/2026 15:40
@@ -685,21 +681,21 @@ ad94ff06-d2aa-43d2-83c2-bfbf36f7c43b,alterative.bet,available,8.98,35.98,low,low
 f7be7f60-d58f-4a27-b8fc-8b888ba81085,antithetic.bet,available,8.98,35.98,low,low,10,namecheap,,,05/08/2026 19:49
 517d9d2f-2b14-4ee7-a4b3-1fcb55aa58db,whitestuff.bet,available,,,low,low,11,,,,
 9f1685d1-98dd-4c58-ab71-b5dd21f464c2,thiscoming.bet,available,14.99,,low,low,11,name.com,,,
-2d5a4d88-34af-4707-98c5-37351a4b921e,recovering.bet,available,14.99,33.99,high,low,10,name.com,,,
+2d5a4d88-34af-4707-98c5-37351a4b921e,recovering.bet,available,8.98,35.98,medium,low,10,namecheap,,,23/09/2026 22:44
 fc433a91-20e9-4439-94eb-fccd6e91b355,seat.bet,resell,,,low,low,4,Dynadot Inc,02/01/2026 01:32,02/01/2027 01:32,09/08/2026 11:32
 f16cb4e2-d145-440a-be90-855a7148fe90,howyousay.bet,available,14.99,,medium,low,11,name.com,,,
 3a9583f7-f890-4d37-8de9-4a5b532638a9,butif.bet,available,14.99,,medium,low,6,name.com,,,
 4a9eabf9-2fe7-4934-90fe-192f047e0912,inplaceof.bet,available,14.99,,medium,low,11,name.com,,,
 9c6502ad-429c-4b29-92a6-dd77e9c4c14a,draggled.bet,available,8.98,35.98,low,low,8,namecheap,,,09/08/2026 07:33
 59859e34-3a04-417a-9657-4336bfe9594f,abouteast.bet,available,14.99,,low,low,10,name.com,,,
-0a37a18b-ba93-4b83-a6b7-ecfb58d56973,competent.bet,available,14.99,33.99,high,low,9,name.com,,,
+0a37a18b-ba93-4b83-a6b7-ecfb58d56973,competent.bet,available,8.98,35.98,medium,low,9,namecheap,,,23/09/2026 17:16
 854cc962-1398-431d-8112-c4f484d6469f,gforce.bet,available,14.99,,high,low,7,name.com,,,
 7a6f3a1d-f731-4d30-8e72-4022a0808786,anserine.bet,available,8.98,35.98,low,low,8,namecheap,,,
 a0eada77-3b1c-40a8-acfe-b390cdb12e08,gothere.bet,available,14.99,,medium,low,8,name.com,,,
-dfc0c0b5-4ca3-4676-85ee-6bd9c736331a,seize.bet,available,14.99,33.99,medium,low,5,name.com,,,
+dfc0c0b5-4ca3-4676-85ee-6bd9c736331a,seize.bet,available,8.98,35.98,low,low,5,namecheap,,,23/09/2026 20:08
 535c91fe-b3cb-4dd6-ac07-e667694f8ed6,provide.bet,available,14.99,,high,low,7,name.com,,,
 73cdca3b-276b-446c-8de7-1f6adff4c337,requested.bet,available,14.99,,medium,low,9,name.com,,,
-e24ff4f6-7a73-4484-ab0b-e01d99aaae6a,attach.bet,available,14.99,33.99,high,low,6,name.com,,,
+e24ff4f6-7a73-4484-ab0b-e01d99aaae6a,attach.bet,available,8.98,35.98,medium,low,6,namecheap,,,23/09/2026 19:57
 1b0067f8-702f-41b1-9861-63b216adc9aa,sickly.bet,available,8.98,35.98,low,low,6,namecheap,,,
 89c25943-a108-42d7-971d-bc3294d61941,afrikaner.bet,available,8.98,35.98,low,low,9,namecheap,,,
 3dacc222-ed77-4f22-98d7-623911d0405d,lowered.bet,available,14.99,,medium,low,7,name.com,,,
@@ -798,9 +794,9 @@ e0ab2437-e3d1-460a-9f8c-479b1b55c8d7,terrified.bet,available,14.99,,medium,low,9
 a6e2a1f4-7e4e-4674-884d-b483a1d75fed,goal.bet,resell,,,high,low,4,Dynadot Inc,03/03/2016 16:00,03/03/2027 16:00,
 bbc0a7fb-d44c-45a8-abb4-e04896535bb8,offspring.bet,available,14.99,,high,low,9,name.com,,,
 a8967a6b-62d1-452a-84fa-9e7d657594cf,rednoseday.bet,available,14.99,,low,low,12,name.com,,,
-7bea0a77-c254-429a-bff0-a517aadbef7a,spf.bet,available,14.99,,high,low,3,name.com,,,
+7bea0a77-c254-429a-bff0-a517aadbef7a,spf.bet,available,8.98,35.98,medium,low,3,namecheap,,,23/09/2026 05:17
 d5837cee-44d9-4fe0-baf6-bf805b51b182,knockover.bet,available,14.99,,medium,low,10,name.com,,,
-818896b3-c332-4c53-8dd0-f3589c138586,laughable.bet,available,14.99,,medium,low,9,name.com,,,
+818896b3-c332-4c53-8dd0-f3589c138586,laughable.bet,available,8.98,35.98,low,low,9,namecheap,,,23/09/2026 15:25
 39e52264-5aaf-4a23-ab70-08a1fe4c4e17,sham.bet,available,,,medium,low,4,,,,
 a3bd6cc1-54ab-4304-a418-79e4e5171813,wordofmouth.bet,available,14.99,,low,low,13,name.com,,,
 e6cb46a9-4bea-4151-8b31-762d99bd4500,waiting.bet,available,14.99,,high,low,7,name.com,,,
@@ -835,7 +831,7 @@ cb91a9f4-a1ed-429e-b317-0a6f0639657b,offhanded.bet,available,8.98,35.98,low,low,
 0bc6cac7-604a-47b6-aa5f-e850b25684fb,havingsaidthat.bet,available,14.99,,medium,low,16,name.com,,,
 8e31abd7-976f-4f57-b8cb-1e04e256d407,bce.bet,available,14.99,,medium,low,3,name.com,,,
 7ccd122a-cd2b-4726-be65-85e2ff93a76a,havethehotsfor.bet,available,14.99,,medium,low,17,name.com,,,
-c2b710d6-c907-4588-a05c-bc2f51f75f86,preventive.bet,available,14.99,33.99,high,low,10,name.com,,,
+c2b710d6-c907-4588-a05c-bc2f51f75f86,preventive.bet,available,17.99,33.99,medium,low,10,name.com,,,23/09/2026 22:24
 b5455b01-3c5f-4f20-bb52-cd8881695717,wandering.bet,available,14.99,,high,low,9,name.com,,,
 d3a29f1d-9884-4513-803e-59b083f9e82b,mothahfucker.bet,available,14.99,,medium,low,12,name.com,,,
 2b8d8e38-9dfa-4cbd-adb4-873875f945aa,sloppy.bet,available,8.98,35.98,low,low,6,namecheap,,,08/08/2026 08:22
@@ -937,7 +933,7 @@ a547d05b-c2dd-4b9d-a108-7a0ab0aa04e6,agonising.bet,available,8.98,35.98,low,low,
 5940610f-7104-4b6d-ba15-b0aefbf97bcf,accessory.bet,available,8.98,35.98,medium,low,9,namecheap,,,21/09/2026 15:35
 f1785b90-6123-450b-8663-07c7be29bc01,rapidantigentest.bet,available,14.99,,high,low,18,name.com,,,
 93f2ba7c-e644-4c99-993c-42c35ccb52f6,ascendable.bet,available,8.98,35.98,low,low,10,namecheap,,,07/08/2026 00:35
-518acf94-e74a-4c77-a56c-6b85fe91621a,processed.bet,available,8.98,35.98,low,low,9,namecheap,,,19/09/2026 13:08
+518acf94-e74a-4c77-a56c-6b85fe91621a,processed.bet,available,8.98,35.98,low,low,9,namecheap,,,23/09/2026 15:59
 1cf5173b-45de-42e6-a5a4-d3fc43be1c1b,ignore.bet,available,14.99,,medium,low,6,name.com,,,
 fbe113af-7cc4-4690-bfe5-eed720fd4d4f,sweetwhiskey.bet,available,14.99,,low,low,13,name.com,,,
 8fdd8a85-bd09-4b07-bc7f-541a150c31b1,mastercard.bet,available,,,high,low,10,,,,
@@ -984,7 +980,7 @@ c3dd0526-64d9-42bd-b835-12d2fd05088b,adjusted.bet,available,8.98,35.98,medium,lo
 b905dcf5-f230-4850-8b80-2b4239476b92,oneyear.bet,available,,,medium,low,8,,,,
 79ac4409-9cb7-4cb5-be51-25942b64bf64,passionate.bet,available,14.99,,high,low,10,name.com,,,
 dc1daa0d-cae7-4030-84a8-6698eb05ab72,ancillary.bet,available,8.98,35.98,low,low,9,namecheap,,,
-a425920e-d289-47ef-9a48-d661ae7a04c0,payment.bet,premium,1300,1300,medium,low,7,namecheap,,,20/09/2026 02:57
+a425920e-d289-47ef-9a48-d661ae7a04c0,payment.bet,premium,1300,1300,medium,low,7,namecheap,,,23/09/2026 10:58
 e1050999-34fc-4f11-ac0b-8c081236d8a2,splashabout.bet,available,14.99,,medium,low,12,name.com,,,
 9ea5d316-aba2-4132-8025-a779891c1361,getoff.bet,available,14.99,,high,low,7,name.com,,,
 36a4a25b-7bf9-453e-9031-07174933c41d,paddle.bet,resell,,,high,high,6,"GoDaddy.com, LLC",06/04/2025 14:27,06/04/2027 14:27,
@@ -999,3 +995,7 @@ c47a24d6-a670-48a4-8847-7eb88842071d,scenicroute.bet,available,14.99,,high,low,1
 eb47b1d0-db47-4e45-9ba9-34a8fa95688b,seized.bet,available,14.99,,medium,low,6,name.com,,,
 2975d733-4d47-4fa0-bcb0-64f5844e86dd,childsexualabuse.bet,available,14.99,,medium,low,18,name.com,,,
 6a4e1dd6-38b8-4650-89b1-2d0521e43370,thelike.bet,available,14.99,,medium,low,8,name.com,,,
+bc4ff5fa-a8c4-4514-9c0b-1e3958d87912,asthmatic.bet,available,8.98,35.98,low,low,9,namecheap,,,22/09/2026 10:23
+145a0541-2253-430e-8b82-53dd5057d70b,centralised.bet,available,14.99,,medium,low,11,name.com,,,
+1d506830-88fe-4142-aac6-7ff675561ba7,anthropic.bet,available,,,medium,low,9,,,,
+92da86b5-18b0-4e73-8653-17f72ca9490d,belittled.bet,available,8.98,35.98,low,low,9,namecheap,,,09/08/2026 13:06
