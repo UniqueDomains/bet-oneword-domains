@@ -1,10 +1,10 @@
-# Available .BET One-Word Domains (20,811)
+# Available .BET One-Word Domains (22,715)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-20%2C811%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C715%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .bet one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **20,811 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **22,715 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 20,811 domains · **Median ask:** $64.00 · **High-demand under $2,500:** 2
+**Public extract:** 1,000 rows · **Live catalog:** 22,715 domains · **Median ask:** $52.02 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-28
+**Last updated:** 2026-09-29
 **Canonical page:** `https://unique.domains/domains/tld/bet`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain      | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar           |
-| ----------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ------------------- |
-| und.bet     | available | $8.98      | $35.98        | high           | low    | 3      | namecheap           |
-| series.bet  | resell    | $14.99     | —             | high           | low    | 6      | Sav.com, LLC        |
-| fog.bet     | premium   | $325       | $325          | high           | low    | 3      | namecheap           |
-| adps.bet    | available | $8.98      | $35.98        | medium         | low    | 4      | namecheap           |
-| element.bet | resell    | $43,346.78 | —             | high           | low    | 7      | Sav.com, LLC - 27   |
-| soon.bet    | premium   | $31,725.65 | —             | high           | low    | 4      | Sav.com, LLC - 41   |
-| ague.bet    | available | $8.98      | $35.98        | medium         | low    | 4      | namecheap           |
-| hex.bet     | resell    | —          | —             | high           | medium | 3      | Porkbun LLC         |
-| amuse.bet   | premium   | $312.50    | —             | high           | low    | 5      | name.com            |
-| amur.bet    | available | $8.98      | $35.98        | high           | low    | 4      | namecheap           |
-| leo.bet     | resell    | —          | —             | high           | medium | 3      | GNAME.COM PTE. LTD. |
-| divine.bet  | premium   | $625       | $625          | high           | low    | 6      | name.com            |
-| barm.bet    | available | $8.98      | $35.98        | medium         | low    | 4      | namecheap           |
-| now.bet     | resell    | —          | —             | high           | medium | 3      | Sav.com, LLC        |
-| option.bet  | premium   | $85.80     | $85.80        | high           | low    | 6      | namecheap           |
-| brow.bet    | available | $14.99     | —             | high           | low    | 4      | name.com            |
-| acer.bet    | resell    | —          | —             | high           | low    | 4      | Dynadot Inc         |
-| anaheim.bet | premium   | $325       | $325          | high           | low    | 7      | namecheap           |
-| burt.bet    | available | $8.98      | $35.98        | medium         | low    | 4      | namecheap           |
-| bear.bet    | resell    | —          | —             | high           | low    | 4      | Dynadot11 LLC       |
+| domain      | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar         |
+| ----------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| icf.bet     | available | $20.20     | $20.20        | high           | low    | 3      | cloudflare        |
+| series.bet  | resell    | $14.99     | —             | high           | low    | 6      | Sav.com, LLC      |
+| fog.bet     | premium   | $325       | $325          | high           | low    | 3      | namecheap         |
+| nsf.bet     | available | $9.58      | $20.91        | high           | low    | 3      | porkbun           |
+| element.bet | resell    | $43,346.78 | —             | high           | low    | 7      | Sav.com, LLC - 27 |
+| amuse.bet   | premium   | $312.50    | —             | high           | low    | 5      | name.com          |
+| til.bet     | available | $8.98      | $35.98        | high           | low    | 3      | namecheap         |
+| fia.bet     | resell    | —          | —             | medium         | low    | 3      | —                 |
+| divine.bet  | premium   | $625       | $625          | high           | low    | 6      | name.com          |
+| und.bet     | available | $8.98      | $35.98        | high           | low    | 3      | namecheap         |
+| hex.bet     | resell    | —          | —             | high           | medium | 3      | Porkbun LLC       |
+| eagles.bet  | premium   | $258.95    | $258.95       | high           | low    | 6      | spaceship         |
+| adps.bet    | available | $8.98      | $35.98        | medium         | low    | 4      | namecheap         |
+| now.bet     | resell    | —          | —             | high           | medium | 3      | Sav.com, LLC      |
+| option.bet  | premium   | $85.80     | $85.80        | high           | low    | 6      | namecheap         |
+| ague.bet    | available | $8.98      | $35.98        | medium         | low    | 4      | namecheap         |
+| acer.bet    | resell    | —          | —             | high           | low    | 4      | Dynadot Inc       |
+| anaheim.bet | premium   | $325       | $325          | high           | low    | 7      | namecheap         |
+| amer.bet    | available | $7.96      | $20.90        | medium         | low    | 4      | spaceship         |
+| bear.bet    | resell    | —          | —             | high           | medium | 4      | Dynadot11 LLC     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 20,811 live domains                        |
+| 1,000-row public sample | 22,715 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 2 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BET One-Word Domains*. Version 2026-09-28. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BET One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
