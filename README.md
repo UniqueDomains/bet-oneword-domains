@@ -1,10 +1,10 @@
-# Available .BET One-Word Domains (26,563)
+# Available .BET One-Word Domains (27,889)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-26%2C563%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-27%2C889%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .bet one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **26,563 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **27,889 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 26,563 domains · **Median ask:** $31.95 · **High-demand under $2,500:** 2
+**Public extract:** 1,000 rows · **Live catalog:** 27,889 domains · **Median ask:** $31.06 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-10-01
+**Last updated:** 2026-10-02
 **Canonical page:** `https://unique.domains/domains/tld/bet`
 **Best for:** founders, investors, studios
 
@@ -76,14 +76,14 @@ print(df.head())
 | bmt.bet        | available | $13.50     | —             | high           | low    | 3      | unstoppable       |
 | fia.bet        | resell    | —          | —             | medium         | low    | 3      | —                 |
 | amuse.bet      | premium   | $273.22    | $273.22       | high           | low    | 5      | porkbun           |
-| csp.bet        | available | $20.20     | $20.20        | high           | low    | 3      | cloudflare        |
-| hex.bet        | resell    | —          | —             | high           | medium | 3      | Porkbun LLC       |
-| stats.bet      | premium   | $1,552.70  | $1,552.70     | high           | medium | 5      | spaceship         |
-| fsa.bet        | available | $20.20     | $20.20        | high           | low    | 3      | cloudflare        |
+| cmt.bet        | available | $7.96      | $20.90        | medium         | low    | 3      | spaceship         |
 | now.bet        | resell    | —          | —             | high           | medium | 3      | Sav.com, LLC      |
-| divine.bet     | premium   | $625       | $625          | high           | low    | 6      | name.com          |
-| icf.bet        | available | $20.20     | $20.20        | high           | low    | 3      | cloudflare        |
-| acer.bet       | resell    | —          | —             | high           | low    | 4      | Dynadot Inc       |
+| crave.bet      | premium   | $258.95    | $258.95       | high           | low    | 5      | spaceship         |
+| csp.bet        | available | $20.20     | $20.20        | high           | low    | 3      | cloudflare        |
+| dirt.bet       | resell    | —          | —             | high           | low    | 4      | Sav.com, LLC - 17 |
+| stats.bet      | premium   | $1,552.70  | $1,552.70     | high           | medium | 5      | spaceship         |
+| dps.bet        | available | $7.96      | $20.90        | high           | low    | 3      | spaceship         |
+| full.bet       | resell    | —          | —             | high           | low    | 4      | GoDaddy.com, LLC  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 26,563 live domains                        |
+| 1,000-row public sample | 27,889 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 2 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BET One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BET One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
