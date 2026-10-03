@@ -1,10 +1,10 @@
-# Available .BET One-Word Domains (27,889)
+# Available .BET One-Word Domains (29,877)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-27%2C889%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-29%2C877%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .bet one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **27,889 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **29,877 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 27,889 domains · **Median ask:** $31.06 · **High-demand under $2,500:** 2
+**Public extract:** 1,000 rows · **Live catalog:** 29,877 domains · **Median ask:** $29.83 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-10-02
+**Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/tld/bet`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar         |
-| -------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| ahn.bet        | available | $20.20     | $20.20        | medium         | low    | 3      | cloudflare        |
-| series.bet     | resell    | $14.99     | —             | high           | low    | 6      | Sav.com, LLC      |
-| dss.bet        | premium   | $68.51     | $68.51        | high           | medium | 3      | spaceship         |
-| amr.bet        | available | $8.98      | $35.98        | high           | low    | 3      | namecheap         |
-| element.bet    | resell    | $43,346.78 | —             | high           | low    | 7      | Sav.com, LLC - 27 |
-| fog.bet        | premium   | $325       | $325          | high           | low    | 3      | namecheap         |
-| bhp.bet        | available | $8.98      | $35.98        | high           | low    | 3      | namecheap         |
-| cinderella.bet | resell    | $14.99     | —             | high           | low    | 10     | name.com          |
-| oem.bet        | premium   | $250.50    | —             | high           | low    | 3      | unstoppable       |
-| bmt.bet        | available | $13.50     | —             | high           | low    | 3      | unstoppable       |
-| fia.bet        | resell    | —          | —             | medium         | low    | 3      | —                 |
-| amuse.bet      | premium   | $273.22    | $273.22       | high           | low    | 5      | porkbun           |
-| cmt.bet        | available | $7.96      | $20.90        | medium         | low    | 3      | spaceship         |
-| now.bet        | resell    | —          | —             | high           | medium | 3      | Sav.com, LLC      |
-| crave.bet      | premium   | $258.95    | $258.95       | high           | low    | 5      | spaceship         |
-| csp.bet        | available | $20.20     | $20.20        | high           | low    | 3      | cloudflare        |
-| dirt.bet       | resell    | —          | —             | high           | low    | 4      | Sav.com, LLC - 17 |
-| stats.bet      | premium   | $1,552.70  | $1,552.70     | high           | medium | 5      | spaceship         |
-| dps.bet        | available | $7.96      | $20.90        | high           | low    | 3      | spaceship         |
-| full.bet       | resell    | —          | —             | high           | low    | 4      | GoDaddy.com, LLC  |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| ahn.bet        | available | $20.20    | $20.20        | medium         | low    | 3      | cloudflare        |
+| series.bet     | resell    | $14.99    | —             | high           | low    | 6      | Sav.com, LLC      |
+| dss.bet        | premium   | $68.51    | $68.51        | high           | medium | 3      | spaceship         |
+| amr.bet        | available | $8.98     | $35.98        | high           | low    | 3      | namecheap         |
+| cinderella.bet | resell    | $14.99    | —             | high           | low    | 10     | name.com          |
+| fog.bet        | premium   | $258.95   | $258.95       | high           | low    | 3      | spaceship         |
+| bhp.bet        | available | $8.98     | $35.98        | high           | low    | 3      | namecheap         |
+| fia.bet        | resell    | —         | —             | medium         | low    | 3      | —                 |
+| oem.bet        | premium   | $250.50   | —             | high           | low    | 3      | unstoppable       |
+| bmt.bet        | available | $13.50    | —             | high           | low    | 3      | unstoppable       |
+| now.bet        | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC      |
+| amuse.bet      | premium   | $273.22   | $273.22       | high           | low    | 5      | porkbun           |
+| cmt.bet        | available | $7.96     | $20.90        | medium         | low    | 3      | spaceship         |
+| dirt.bet       | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 17 |
+| crave.bet      | premium   | $258.95   | $258.95       | high           | low    | 5      | spaceship         |
+| csp.bet        | available | $20.20    | $20.20        | high           | low    | 3      | cloudflare        |
+| full.bet       | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC  |
+| stats.bet      | premium   | $1,552.70 | $1,552.70     | high           | medium | 5      | spaceship         |
+| dps.bet        | available | $7.96     | $20.90        | high           | low    | 3      | spaceship         |
+| hemp.bet       | resell    | —         | —             | high           | low    | 4      | Dynadot Inc       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 27,889 live domains                        |
+| 1,000-row public sample | 29,877 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 2 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BET One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BET One-Word Domains*. Version 2026-10-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
